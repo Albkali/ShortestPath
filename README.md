@@ -1,7 +1,7 @@
 # YMA-Dictionary
 ### Description
 A dictionary that uses binary tree to search for words that are saved in a file, and the dictionary can search for meaning,
-add a word with its meaning and delete the word from the dictionary, in  general idea is to use the concept of the binary tree
+add a word with its meaning and delete the word from the dictionary, in general idea is to use the concept of the binary tree.
 
 #
 
